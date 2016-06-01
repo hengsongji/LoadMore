@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+app/build
+app/src/test
+app/src/androidTest
+gradle.properties
+gradlew
+gradlew.bat
+LoadMore.iml
+
